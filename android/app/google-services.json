@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003987213874",
+    "project_id": "citizen-87d6a",
+    "storage_bucket": "citizen-87d6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003987213874:android:3d86dee977122f9f70262b",
+        "android_client_info": {
+          "package_name": "com.example.investyuk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7P5lcd3zQj9zVgg4oaxs8QXP6OcKQ6J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
